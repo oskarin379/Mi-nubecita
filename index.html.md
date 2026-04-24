@@ -119,17 +119,17 @@ button {
   <p class="anim">sientas que te faltan las mías.</p>  
   
   <div class="foto anim">  
-    <img src="foto1.jpg">  
+    <img src="foto1.jpg.PNG">  
     <div class="descripcion">“La primera de nuestras tantas visitas &lt;3”</div>  
   </div>  
   
   <div class="foto anim">  
-    <img src="foto2.jpg">  
+    <img src="foto2.jpg.HEIC">  
     <div class="descripcion">“Aquí veía a mi nubecita con sus nubecitas, estaban que me brillaban los ojos 🩷”</div>  
   </div>  
   
   <div class="foto anim">  
-    <img src="foto3.jpg">  
+    <img src="foto3.jpg.jpg">  
     <div class="descripcion">“Este día nuestros cuerpos decidieron hablar antes que nuestra boca 😉”</div>  
   </div>  
   
